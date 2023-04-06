@@ -56,8 +56,11 @@ This app follows a Domain Driven Architecture (DDA) pattern, with separate layer
 - `lib/domain`: Contains the domain logic for the app, including model, repositories, and datasource.
 - `lib/presentation`: Contains the presentation controller for the app, including widgets and screens.
 
+### Glance
 
+https://user-images.githubusercontent.com/48079501/230357541-14df0d9e-0f45-4e06-a060-323d3e1c5045.mp4
 
-### Screenshots
+### UI Inspired :
+https://dribbble.com/shots/10918776-News-App
 
 
